@@ -1,6 +1,6 @@
 {
   "name": "poet",
-  "description": "quick and easy blog module, using markdown, jade, whatever",
+  "description": "quick and easy blog module, using markdown, pug, whatever",
   "version": "2.0.3",
   "main": "lib/poet",
   "dependencies": {
