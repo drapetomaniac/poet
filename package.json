@@ -6,7 +6,6 @@
   "dependencies": {
     "front-matter": ">= 0.1.x",
     "fs-then": "0.1.x",
-    "jade": ">= 0.27.1",
     "json-front-matter": ">= 0.1.4",
     "jstransformer": "^1.0.0",
     "marked": "~0.3.2",
@@ -31,7 +30,7 @@
     "blog",
     "blogging",
     "markdown",
-    "jade",
+    "pug",
     "posts",
     "writing"
   ],
